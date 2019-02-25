@@ -1,13 +1,13 @@
 {
   "character_map": {
-    "182221730": "Gibraltar",
-    "725342087": "Bangalore",
-    "827049897": "Wraith",
-    "898565421": "Bloodhound",
     "1111853120": "Caustic",
     "1409694078": "Lifeline",
     "1464849662": "Pathfinder",
-    "2045656322": "Mirage"
+    "182221730": "Gibraltar",
+    "2045656322": "Mirage",
+    "725342087": "Bangalore",
+    "827049897": "Wraith",
+    "898565421": "Bloodhound"
   },
   "legend_stats": {
     "Bangalore": {
@@ -31,30 +31,47 @@
       "833459246": "damage",
       "997037285": "shotgun_kills"
     },
-    "Lifeline": {
-      "1447295346": "damage",
-      "1509839340": "kills",
-      "927222661": "headshots"
-    },
-    "Wraith": {
-      "1081609860": "damage",
-      "1618935778": "kills",
-      "252848455": "headshots"
-    },
-    "Gibraltar": {
-      "345008354": "kills"
-    },
     "Bloodhound": {
       "1049917798": "kills"
     },
     "Caustic": {
       "15753331": "kills"
     },
-    "Pathfinder": {
-      "196161681": "kills"
+    "Gibraltar": {
+      "345008354": "kills"
+    },
+    "Lifeline": {
+      "1000524603": "care_package_kills",
+      "1010955107": "executions",
+      "1013667227": "doc_drone_healing",
+      "1049919818": "pistol_kills",
+      "1436290069": "lmg_kills",
+      "1447295346": "damage",
+      "1503453708": "games_played",
+      "1509839340": "kills",
+      "1676898271": "winning_kills",
+      "172943936": "kills_as_kill_leader",
+      "1758696453": "ar_kills",
+      "1768041931": "dropped_items_for_squadmates",
+      "1807836495": "smg_kills",
+      "2091825336": "shotgun_kills",
+      "31935871": "wins_with_full_squad",
+      "3941687": "revive_shield_damage_blocked",
+      "53059952": "revives",
+      "692891435": "top_3",
+      "704985961": "sniper_kills",
+      "927222661": "headshots"
     },
     "Mirage": {
       "1730527550": "kills"
+    },
+    "Pathfinder": {
+      "196161681": "kills"
+    },
+    "Wraith": {
+      "1081609860": "damage",
+      "1618935778": "kills",
+      "252848455": "headshots"
     }
   }
 }
