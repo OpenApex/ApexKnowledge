@@ -1,0 +1,45 @@
+{
+  "character_map": {
+    "182221730": "Gibraltar",
+    "725342087": "Bangalore",
+    "827049897": "Wraith",
+    "898565421": "Bloodhound",
+    "1111853120": "Caustic",
+    "1409694078": "Lifeline",
+    "1464849662": "Pathfinder",
+    "2045656322": "Mirage"
+  },
+  "legend_stats": {
+    "Bangalore": {
+      "1031439873": "wins_with_full_squad",
+      "1062566391": "double_time_distance",
+      "1218507142": "smoke_grenade_enemies_hit",
+      "1404343849": "sniper_kills",
+      "1454765265": "headshots",
+      "1561856843": "kills_as_kill_leader",
+      "156609670": "creeping_barrage_damage",
+      "159674464": "executions",
+      "1712819508": "revives",
+      "1814522143": "kills",
+      "1913031309": "ar_kills",
+      "2019682590": "winning_kills",
+      "278004241": "games_played",
+      "386848081": "pistol_kills",
+      "445985781": "care_package_kills",
+      "486927953": "top_3",
+      "713918432": "lmg_kills",
+      "833459246": "damage",
+      "997037285": "shotgun_kills"
+    },
+    "Lifeline": {
+      "1447295346": "damage",
+      "1509839340": "kills",
+      "927222661": "headshots"
+    },
+    "Wraith": {
+      "1081609860": "damage",
+      "1618935778": "kills",
+      "252848455": "headshots"
+    }
+  }
+}
