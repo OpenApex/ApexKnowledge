@@ -42,19 +42,19 @@
       "252848455": "headshots"
     },
     "Gibraltar": {
-      "345008354": "kills",
+      "345008354": "kills"
     },
     "Bloodhound": {
-      "1049917798": "kills",
+      "1049917798": "kills"
     },
     "Caustic": {
-      "15753331": "kills",
+      "15753331": "kills"
     },
-"Pathfinder": {
-  "196161681": "kills",
-},
-"Mirage": {
-  "1730527550": "kills",
-}
+    "Pathfinder": {
+      "196161681": "kills"
+    },
+    "Mirage": {
+      "1730527550": "kills"
+    }
   }
 }
