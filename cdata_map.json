@@ -32,10 +32,13 @@
       "997037285": "shotgun_kills"
     },
     "Bloodhound": {
-      "1049917798": "kills"
+      "1049917798": "kills",
+      "1469728535": "damage",
+      "888240106": "wins_with_full_squad"
     },
     "Caustic": {
-      "15753331": "kills"
+      "15753331": "kills",
+      "79320088": "games_played"
     },
     "Gibraltar": {
       "345008354": "kills"
@@ -69,9 +72,17 @@
       "196161681": "kills"
     },
     "Wraith": {
+      "1029543241": "wins_with_full_squad",
       "1081609860": "damage",
+      "1460730151": "lmg_kills",
       "1618935778": "kills",
-      "252848455": "headshots"
+      "1790559237": "pistol_kills",
+      "1932917010": "games_played",
+      "1955189012": "executions",
+      "218650152": "kills_as_kill_leader",
+      "219040158": "winning_kills",
+      "252848455": "headshots",
+      "553648221": "smg_kills"
     }
   }
 }
