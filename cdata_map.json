@@ -7,7 +7,11 @@
     "2045656322": "Mirage",
     "725342087": "Bangalore",
     "827049897": "Wraith",
-    "898565421": "Bloodhound"
+    "898565421": "Bloodhound",
+    "843405508": "Octane",
+    "187386164": "Wattson",
+    "80232848": "Crypto",
+    "1579967516": "Loba"
   },
   "legend_stats": {
     "Bangalore": {
@@ -18,7 +22,7 @@
       "1454765265": "headshots",
       "1561856843": "kills_as_kill_leader",
       "156609670": "creeping_barrage_damage",
-      "159674464": "executions",
+      "159674464": "finishers",
       "1712819508": "revives",
       "1814522143": "kills",
       "1913031309": "ar_kills",
@@ -45,7 +49,7 @@
     },
     "Lifeline": {
       "1000524603": "care_package_kills",
-      "1010955107": "executions",
+      "1010955107": "finishers",
       "1013667227": "doc_drone_healing",
       "1049919818": "pistol_kills",
       "1436290069": "lmg_kills",
@@ -66,10 +70,18 @@
       "927222661": "headshots"
     },
     "Mirage": {
-      "1730527550": "kills"
+      "1730527550": "kills",
+      "533334508": "season_5_wins",
+      "1469409777": "season_5_kills",
+      "830747811": "finishers",
+      "1568462105": "smg_kills",
     },
     "Pathfinder": {
-      "196161681": "kills"
+      "196161681": "kills",
+      "1099437275": "damage",
+      "1106401980": "kills_as_kill_leader",
+      "132761845": "headshots",
+      "785515151": "season_1_kills",
     },
     "Wraith": {
       "1029543241": "wins_with_full_squad",
@@ -78,11 +90,14 @@
       "1618935778": "kills",
       "1790559237": "pistol_kills",
       "1932917010": "games_played",
-      "1955189012": "executions",
+      "1955189012": "finishers",
       "218650152": "kills_as_kill_leader",
       "219040158": "winning_kills",
       "252848455": "headshots",
-      "553648221": "smg_kills"
+      "553648221": "smg_kills",
+      "2136665970": "wrath",
+      "1425300692": "season_4_kills",
+      "1170935138": "wake"
     }
   }
 }
