@@ -102,7 +102,11 @@
       "1170935138": "wake"
     }, 
     "Rampart": {
-      
+      "1687566091": "tactical_damage_blocked",
+      "1041231992": "season_6_wins",
+      "81517437": "kills",
+      "1947146183": "headshots",
+      "18649475": "damage",
     },
     "Revenant": {
       "905406684": "headshots",
