@@ -100,6 +100,18 @@
       "2136665970": "wrath",
       "1425300692": "season_4_kills",
       "1170935138": "wake"
+    }, 
+    "Rampart": {
+      
+    },
+    "Revenant": {
+      "905406684": "headshots",
+      "1793313476": "kills",
+      "1076637566": "damage",
+      "1994761139": "grand_soiree_kills",
+      "1326273286": "grand_soiree_wins",
+      "215973989": "grand_soiree_damage",
+      "1197550660": "season_5_kills",
     }
   }
 }
