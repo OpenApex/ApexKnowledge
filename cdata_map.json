@@ -47,7 +47,16 @@
       "79320088": "games_played"
     },
     "Gibraltar": {
-      "345008354": "kills"
+      "345008354": "kills",
+      "1378894744": "season_1_kills",
+      "945064494": "bombardment_kills",
+      "1426953701": "season_5_kills",
+      "2101929659": "headshots",
+      "1214691100": "wins_with_full_squad",
+      "179774829": "kills_as_kill_leader",
+      "1800813181": "smg_kills",
+      "1250024386": "ar_kills",
+      "1264185247": "damage",
     },
     "Lifeline": {
       "1000524603": "care_package_kills",
@@ -78,7 +87,9 @@
       "830747811": "finishers",
       "1568462105": "smg_kills",
       "2014839975": "damage",
-      "2015631597": "kills_as_kill_leader"
+      "2015631597": "kills_as_kill_leader",
+      "1760707531": "season_3_wins",
+      "1136168729": "season_4_wins",
     },
     "Pathfinder": {
       "196161681": "kills",
